@@ -13,6 +13,7 @@
 		BD0FACD11DB6B399005865C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD0FACCF1DB6B399005865C7 /* Main.storyboard */; };
 		BD0FACD31DB6B399005865C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD0FACD21DB6B399005865C7 /* Assets.xcassets */; };
 		BD0FACD61DB6B399005865C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD0FACD41DB6B399005865C7 /* LaunchScreen.storyboard */; };
+		BD0FACDE1DB6B4EF005865C7 /* PresidentList.plist in Resources */ = {isa = PBXBuildFile; fileRef = BD0FACDD1DB6B4EF005865C7 /* PresidentList.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BD0FACD21DB6B399005865C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD0FACD51DB6B399005865C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD0FACD71DB6B399005865C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD0FACDD1DB6B4EF005865C7 /* PresidentList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PresidentList.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BD0FACD21DB6B399005865C7 /* Assets.xcassets */,
 				BD0FACD41DB6B399005865C7 /* LaunchScreen.storyboard */,
 				BD0FACD71DB6B399005865C7 /* Info.plist */,
+				BD0FACDD1DB6B4EF005865C7 /* PresidentList.plist */,
 			);
 			path = Presidents;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 				BD0FACD61DB6B399005865C7 /* LaunchScreen.storyboard in Resources */,
 				BD0FACD31DB6B399005865C7 /* Assets.xcassets in Resources */,
 				BD0FACD11DB6B399005865C7 /* Main.storyboard in Resources */,
+				BD0FACDE1DB6B4EF005865C7 /* PresidentList.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
