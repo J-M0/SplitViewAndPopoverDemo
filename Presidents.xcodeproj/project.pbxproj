@@ -15,6 +15,7 @@
 		BD0FACD61DB6B399005865C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD0FACD41DB6B399005865C7 /* LaunchScreen.storyboard */; };
 		BD0FACDE1DB6B4EF005865C7 /* PresidentList.plist in Resources */ = {isa = PBXBuildFile; fileRef = BD0FACDD1DB6B4EF005865C7 /* PresidentList.plist */; };
 		BD0FACE21DB6C1F9005865C7 /* LanguageListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0FACE11DB6C1F9005865C7 /* LanguageListController.swift */; };
+		BD76E5B71DB94650003A7058 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD76E5B61DB94650003A7058 /* RootViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		BD0FACD71DB6B399005865C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD0FACDD1DB6B4EF005865C7 /* PresidentList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PresidentList.plist; sourceTree = "<group>"; };
 		BD0FACE11DB6C1F9005865C7 /* LanguageListController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LanguageListController.swift; sourceTree = "<group>"; };
+		BD76E5B61DB94650003A7058 /* RootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				BD0FACD71DB6B399005865C7 /* Info.plist */,
 				BD0FACDD1DB6B4EF005865C7 /* PresidentList.plist */,
 				BD0FACE11DB6C1F9005865C7 /* LanguageListController.swift */,
+				BD76E5B61DB94650003A7058 /* RootViewController.swift */,
 			);
 			path = Presidents;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD76E5B71DB94650003A7058 /* RootViewController.swift in Sources */,
 				BD0FACCE1DB6B399005865C7 /* DetailViewController.swift in Sources */,
 				BD0FACCC1DB6B399005865C7 /* MasterViewController.swift in Sources */,
 				BD0FACCA1DB6B399005865C7 /* AppDelegate.swift in Sources */,
